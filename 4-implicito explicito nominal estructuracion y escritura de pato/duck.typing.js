@@ -26,7 +26,7 @@ const gusano = {
 
 hacerSonido(perro); // "¡Guau!"
 hacerSonido(pato); // "¡Cuac!"
-hacerSonido(gusano); // "¡Cuac!"
+hacerSonido(gusano);
 
 // En este caso, no importa si perro y pato son de clases diferentes o incluso si tienen diferentes
 // propiedades adicionales. Lo único que importa es que tienen el método hacerRuido,

@@ -35,3 +35,9 @@ console.log(4 * [1, 2]); // NaN
 
 console.log("string" ? 4 : 1); //4
 console.log(undefined ? 4 : 1); //1
+
+if (4 * [1, 2]) {
+  console.log("Es truthy");
+} else {
+  console.log("Es falsy");
+}
