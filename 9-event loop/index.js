@@ -1,3 +1,6 @@
+//You can check functionality here
+//http://latentflip.com/loupe/
+
 console.log("Hi!");
 
 setTimeout(function timeout() {
